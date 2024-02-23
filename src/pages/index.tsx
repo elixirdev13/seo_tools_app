@@ -25,7 +25,7 @@ const Home: React.FC = () => {
 
   return (
     <div>
-      <h1>Webpage Analyzer</h1>
+      <h1>Gocommerce Webpage Analyzer</h1>
       <form onSubmit={handleSubmit}>
         <input
           type="text"
